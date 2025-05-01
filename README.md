@@ -1,4 +1,4 @@
-Set up instructions
+<!-- Set up instructions
 1) Fork and clone this repo
 2) In your terminal, navigate into this repo
 3) Run 'npm i' in your terminal
@@ -8,4 +8,4 @@ Set up instructions
 
 TIPS
 1) If you are unsure what the question is asking, look at the test case
-2) The data in the test case will tell you what you are starting with and what the expected output is
+2) The data in the test case will tell you what you are starting with and what the expected output is -->
