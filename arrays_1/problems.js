@@ -43,7 +43,7 @@ module.exports = {
     prob3,
     prob4,
     prob5,
-    prob6
+    prob6,
 }
 
 
